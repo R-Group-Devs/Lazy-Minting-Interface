@@ -3,7 +3,7 @@
 Lazy Minting to specific addresses
 
 ### MagicMint Marketing: 
-  - [www.magicmint.xyz](https://magicmint.xyz/)
+  - [www.magicmint.xyz](https://www.magicmint.xyz/)
 
 ### MagicMint Marketing Github: 
 
